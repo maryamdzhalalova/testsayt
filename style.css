@@ -1,0 +1,20 @@
+.splide__slide_1{
+    height: 300px;
+    width: 100%;
+    background: red;
+}
+.splide__slide_2{
+    height: 300px;
+    width: 100%;
+    background:darkorchid;
+}
+
+.splide__slide_3{
+    height: 300px;
+    width: 100%;
+    background: cornflowerblue;
+}
+.splide__pagination_page{
+    border-radius:0% !important ;
+    background-color: darkkhaki !important;
+}
